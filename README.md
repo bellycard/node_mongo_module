@@ -9,7 +9,7 @@ Add to your dependencies in package.json, with a reference to this repository
 
 ```JAVASCRIPT
 "dependencies": {
-  "node_mongo_module": "git://github.com/bellycard/node_mongo_module.git#v0.0.2"
+  "node_mongo_module": "git://github.com/bellycard/node_mongo_module.git#v0.0.3"
 }
 ```
 
