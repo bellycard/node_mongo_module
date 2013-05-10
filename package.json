@@ -3,10 +3,10 @@
   "description": "Simple node module to wrap over mongolian",
   "author": "Belly Inc.",
   "main": "node_mongo_module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "mongolian": "~0.1.18",
-    "node_settings_module": "git://github.com/bellycard/node_settings_module.git#v0.0.1"
+    "node_settings_module": "git://github.com/bellycard/node_settings_module.git#v0.0.2"
   },
   "engines": {
     "node": "*"
